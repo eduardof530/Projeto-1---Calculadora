@@ -34,7 +34,13 @@ Problemas comuns:
 "Command not found": Se o terminal não conseguir encontrar o script, certifique-se de que você está no diretório correto onde o arquivo calculadora.sh está armazenado.
 
 
+
+
+
+
+
 Explicação do código Python
+
 Este código é um simples calculadora que realiza operações básicas de soma, subtração, multiplicação e divisão entre dois números fornecidos pelo usuário.
 
 1. Entrada de dados
