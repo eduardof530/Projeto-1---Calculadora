@@ -1,6 +1,6 @@
 # Projeto-1---Calculadora
 
-Explicação de como executar o arquivo calculadora.sh:
+EXPLICAÇÃO DE COMO EXECUTAR O ARQUIVO CALCULADORA.SH
 
 Para executar o arquivo calculadora.sh, siga os passos abaixo:
 
@@ -36,10 +36,7 @@ Problemas comuns:
 
 
 
-
-
-
-Explicação do código Python
+EXPLICAÇÃO DO CODIGO PYTHON
 
 Este código é um simples calculadora que realiza operações básicas de soma, subtração, multiplicação e divisão entre dois números fornecidos pelo usuário.
 
